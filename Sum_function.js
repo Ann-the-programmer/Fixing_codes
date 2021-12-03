@@ -1,7 +1,7 @@
 function summingArguments(numbers) {
     let sumOfArgs = 0;
     for (let i of numbers) {
-        sumOfArgs += parseInt(i);
+        sumOfArgs += parseInt(i); // converting a string argument (i) to an integer to sum arguments properly
     }
     return sumOfArgs;
 }
