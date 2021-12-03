@@ -1,4 +1,4 @@
-let first_num = 2;
-let second_num = 3;
-let sum = first_num + second_num;
+let firstNum = 2;
+let secondNum = 3;
+let sum = firstNum + secondNum;
 alert(sum);
